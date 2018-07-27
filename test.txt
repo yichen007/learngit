@@ -4,5 +4,6 @@ script,first,second = argv
 
 def Add(first,second):
     print "a+b = ",first+second
+    return 1
   
 
