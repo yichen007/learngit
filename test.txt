@@ -1,4 +1,5 @@
 #Creating a new branch is quick.
+#and simple
 from sys import argv
 
 script,first,second = argv
