@@ -1,5 +1,9 @@
 #Creating a new branch is quick.
-# &simple
+<<<<<<< HEAD
+#and simple
+=======
+#and simple
+>>>>>>> feature1
 from sys import argv
 
 script,first,second = argv
